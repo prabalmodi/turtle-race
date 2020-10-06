@@ -10,3 +10,4 @@
 1. Start building tracks and racers by running ` python3 Turtle_race.py`
 2. To start race, press <kbd>k</kbd>
 3. once the race is finished, to restart press <kbd>r</kbd>.
+If you want to add new features, you can subit a pr and I will be happy to review it.
